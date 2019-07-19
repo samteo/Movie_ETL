@@ -1,0 +1,3 @@
+tt0411098HTTP Error 522: Origin Connection Time-out
+0:35:16.933405<_io.TextIOWrapper name='movie2005.csv' mode='r' encoding='utf-8'>
+0:52:20.633105<_io.TextIOWrapper name='movie2006.csv' mode='r' encoding='utf-8'>

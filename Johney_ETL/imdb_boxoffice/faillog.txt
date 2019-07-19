@@ -1,0 +1,537 @@
+0:00:00<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.054925<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.090837<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.134714<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.178596<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.225476<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.273343<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.320296<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.369197<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.408117<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.453990<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.509926<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.546828<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.582864<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.621736<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.672599<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.715591<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.765464<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.824300<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.868180<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.902090<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:00.962029<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.004917<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.050991<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.094875<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.150839<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.200669<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.254560<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.311401<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.361286<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.398277<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.441199<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.495020<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.542962<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.590835<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.642690<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.677677<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.717612<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.768556<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.815552<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.848463<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.895418<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.938413<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:01.986363<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.033238<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.096394<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.143396<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.180298<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.222301<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.273264<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.346139<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.406935<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.460913<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.512856<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.565714<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.613648<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.663510<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.700462<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.757608<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.804441<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.857327<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.895198<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:02.954253<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.020105<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.069030<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.117990<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.174831<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.228683<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.281574<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.319468<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.361328<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.397262<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.432139<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.462058<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.490001<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.521897<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.554809<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.589764<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.614696<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.646611<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.681544<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.739452<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.786320<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.831389<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.891193<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.935076<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.967985<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:03.993166<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.037583<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.094471<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.145296<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.203168<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.240070<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.288005<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.341973<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.393798<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.431695<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.465696<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.513993<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.563896<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.619749<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.670610<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.720601<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.754719<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.793722<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.841596<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.890463<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.940359<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:04.996209<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.033082<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.073003<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.119885<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.174909<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.225771<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.278630<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.334479<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.391331<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.444186<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.496265<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.557109<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.612924<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.668810<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.720636<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.765625<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.808675<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.861508<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.920347<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:05.980188<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.037154<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.094990<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.157915<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.221743<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.292607<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.345468<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.396321<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.435275<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.475168<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.511073<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.545979<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.580913<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.629837<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.681694<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.711613<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.743527<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.781432<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.827330<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.879278<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.930162<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:06.973023<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.021928<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.135098<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.186922<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.249868<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.303724<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.340779<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.376683<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.412593<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.463486<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.516312<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.577150<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.635022<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.679876<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.722759<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.758691<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.819504<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.872362<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.913251<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:07.966335<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.017338<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.077179<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.135028<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.189911<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.242736<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.290757<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.367618<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.420585<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.467485<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.518321<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.560334<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.604188<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.647070<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.684002<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.740846<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.790824<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.818776<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.874636<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.909540<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.941464<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:08.978374<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.007282<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.039224<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.075124<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.114135<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.168099<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.220965<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.269797<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.304707<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.340637<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.375532<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.412467<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.453357<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.553238<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.624096<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.662015<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.689066<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.721985<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.767861<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.907037<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:09.967872<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.010818<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.063676<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.104799<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.159682<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.213509<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.270428<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.346304<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.399187<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.450058<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.508862<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.564839<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.625677<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.686475<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.740466<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.803304<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.853134<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.902028<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:10.943091<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.001959<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.061778<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.115656<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.154562<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.209377<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.270217<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.338155<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.389008<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.440843<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.489738<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.537697<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.599618<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.654434<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.703302<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.755166<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.816039<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.871855<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.932723<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:11.980592<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.034558<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.099466<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.160304<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.221194<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.282251<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.341129<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.400969<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.474772<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.538566<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.602395<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.661351<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.724278<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.776141<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.872058<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.933109<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:12.996939<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.062812<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.129630<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.210543<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.273375<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.337390<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.392241<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.431264<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.501088<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.560896<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.605863<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.663268<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.724185<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.784034<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.837851<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.890742<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:13.943608<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.002448<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.067438<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.118400<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.170261<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.226119<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.297927<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.355883<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.410728<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.472635<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.536494<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.602396<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.655417<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.713232<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.753499<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.816324<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.869292<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.945099<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:14.995935<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.039839<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.087770<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.161675<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.221549<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.280707<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.341655<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.404477<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.471307<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.526153<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.586000<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.650831<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.700798<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.762605<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.833448<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.888397<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.943249<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:15.987442<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.188490<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.259337<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.325125<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.387955<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.455801<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.522634<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.577474<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.642313<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.703114<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.760193<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.814353<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.886675<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:16.969520<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.022378<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.091740<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.147672<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.214501<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.271368<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.324304<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.366193<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.408187<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.447084<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.506978<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.561142<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.620044<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.685862<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.737753<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.809734<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.865582<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.930458<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:17.975365<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.020327<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.071437<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.132276<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.206079<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.279880<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.336691<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.411574<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.467436<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.526245<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.583124<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.643932<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.699781<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.759823<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.818657<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.878559<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:18.936542<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.007354<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.070260<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.145178<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.210006<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.271804<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.322698<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.401626<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.458677<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.513715<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.570591<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.618660<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.665704<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.712870<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.773071<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.870843<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.934853<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:19.997801<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.053672<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.122641<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.176498<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.253349<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.318282<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.384072<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.452098<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.508951<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.562900<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.633682<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.685547<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.723610<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.776470<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.838377<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.894239<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:20.954068<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.018959<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.081859<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.147684<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.216499<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.281450<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.335692<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.411525<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.486584<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.546448<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.602414<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.676177<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.729066<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.787916<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:21.850742<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:22.371749<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:22.429595<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:22.486521<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:22.547462<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.085569<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.140460<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.693937<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.754114<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.810955<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.867908<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:23.942839<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.011716<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.075633<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.130666<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.194489<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.258505<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.315495<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.371442<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.432248<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.487141<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.556915<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.628761<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.697684<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.757523<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.816440<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.885253<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:24.942105<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.005044<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.048949<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.102803<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.634728<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.697697<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.751761<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.817700<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.875511<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.935384<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:25.991237<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.068225<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.130060<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.196008<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.271978<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.333802<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.390661<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.447964<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.513783<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.568741<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+0:00:26.633572<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
+tt1375666'str' object has no attribute 'get'
+tt1228705'str' object has no attribute 'get'
+tt0446029'str' object has no attribute 'get'
+tt1130884'str' object has no attribute 'get'
+tt0800320'str' object has no attribute 'get'
+tt0947798'str' object has no attribute 'get'
+tt1591095'str' object has no attribute 'get'
+tt1250777'str' object has no attribute 'get'
+tt0892769'str' object has no attribute 'get'
+tt1104001'str' object has no attribute 'get'
+tt0435761'str' object has no attribute 'get'
+tt1273235'str' object has no attribute 'get'
+tt1458175'str' object has no attribute 'get'
+tt1285016'str' object has no attribute 'get'
+tt0926084'str' object has no attribute 'get'
+tt1375670'str' object has no attribute 'get'
+tt1231587'str' object has no attribute 'get'
+tt1038686'str' object has no attribute 'get'
+tt1403981'str' object has no attribute 'get'
+tt0398286'str' object has no attribute 'get'
+tt1403865'str' object has no attribute 'get'
+tt0840361'str' object has no attribute 'get'
+tt1014759'str' object has no attribute 'get'
+tt1325004'str' object has no attribute 'get'
+tt1282140'str' object has no attribute 'get'
+tt0814255'str' object has no attribute 'get'
+tt0758752'str' object has no attribute 'get'
+tt1424381'str' object has no attribute 'get'
+tt1242432'str' object has no attribute 'get'
+tt0938283'str' object has no attribute 'get'
+tt0427152'str' object has no attribute 'get'
+tt1386588'str' object has no attribute 'get'
+tt1504320'str' object has no attribute 'get'
+tt1037705'str' object has no attribute 'get'
+tt0480255'str' object has no attribute 'get'
+tt1228987'str' object has no attribute 'get'
+tt0955308'str' object has no attribute 'get'
+tt0815236'str' object has no attribute 'get'
+tt0473075'str' object has no attribute 'get'
+tt1255953'str' object has no attribute 'get'
+tt0817177'str' object has no attribute 'get'
+tt1120985'str' object has no attribute 'get'
+tt1323594'str' object has no attribute 'get'
+tt0980970'str' object has no attribute 'get'
+tt1245526'str' object has no attribute 'get'
+tt1399683'str' object has no attribute 'get'
+tt0429493'str' object has no attribute 'get'
+tt1261945'str' object has no attribute 'get'
+tt1155076'str' object has no attribute 'get'
+tt1126591'str' object has no attribute 'get'
+tt1001526'str' object has no attribute 'get'
+tt1512235'str' object has no attribute 'get'
+tt0964517'str' object has no attribute 'get'
+tt1320253'str' object has no attribute 'get'
+tt1542344'str' object has no attribute 'get'
+tt0464154'str' object has no attribute 'get'
+tt1588170'str' object has no attribute 'get'
+tt0817230'str' object has no attribute 'get'
+tt0985694'str' object has no attribute 'get'
+tt0780653'str' object has no attribute 'get'
+tt1465522'str' object has no attribute 'get'
+tt1279935'str' object has no attribute 'get'
+tt1334260'str' object has no attribute 'get'
+tt0944835'str' object has no attribute 'get'
+tt1196141'str' object has no attribute 'get'
+tt1216492'str' object has no attribute 'get'
+tt1226229'str' object has no attribute 'get'
+tt1075747'str' object has no attribute 'get'
+tt1243957'str' object has no attribute 'get'
+tt0455407'str' object has no attribute 'get'
+tt1179056'str' object has no attribute 'get'
+tt1231583'str' object has no attribute 'get'
+tt1433108'str' object has no attribute 'get'
+tt0879870'str' object has no attribute 'get'
+tt1462758'str' object has no attribute 'get'
+tt1055292'str' object has no attribute 'get'
+tt1263750'str' object has no attribute 'get'
+tt1321509'str' object has no attribute 'get'
+tt1020558'str' object has no attribute 'get'
+tt1313092'str' object has no attribute 'get'
+tt0963966'str' object has no attribute 'get'
+0:00:00.055850<_io.TextIOWrapper name='movieBox_2010' mode='w' encoding='utf-8'>
